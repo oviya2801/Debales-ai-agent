@@ -1,4 +1,4 @@
-# Debales AI Assistant (Upgraded)
+# Debales AI Assistant 
 
 ## Features
 - RAG with web scraping (BeautifulSoup)
